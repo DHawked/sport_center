@@ -13,13 +13,6 @@ This project is a responsive website developed for a sport center called "PowerF
 
 [Click here to view the live demo](https://sunny-kelpie-3a82ac.netlify.app/)
 
-### Screenshots
-
-#### Desktop View
-![Desktop View](screenshots/desktop.png)
-
-#### Mobile View
-![Mobile View](screenshots/mobile.png)
 
 ### Features
 
@@ -96,9 +89,6 @@ sport-center/
 │   ├── hero-man.jpg
 │   ├── bmi-index.jpg
 │   └── ... (other images)
-├── screenshots/        # Project screenshots
-│   ├── desktop.png
-│   └── mobile.png
 └── README.md           # Project documentation
 ```
 
@@ -123,14 +113,6 @@ Bu proje, "PowerFull" adlı bir spor merkezi için geliştirilen responsive bir 
 ### Canlı Demo
 
 [Canlı demoyu görüntülemek için tıklayın](https://sunny-kelpie-3a82ac.netlify.app/)
-
-### Ekran Görüntüleri
-
-#### Masaüstü Görünümü
-![Masaüstü Görünümü](screenshots/desktop.png)
-
-#### Mobil Görünümü
-![Mobil Görünümü](screenshots/mobile.png)
 
 ### Özellikler
 
